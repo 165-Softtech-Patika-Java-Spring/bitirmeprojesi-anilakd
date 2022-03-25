@@ -41,11 +41,11 @@ Bunun yerine Swagger arayüzünden manuel olarak da  FOOD, STATIONARY, CLOTHES, 
 
 #Ekran görüntüleri
 
-![Image](src/main/java/com/anilakdemir/softtechfinalproject/images/top.png)
-![Image](src/main/java/com/anilakdemir/softtechfinalproject/images/authentication_controller.png)
-![Image](src/main/java/com/anilakdemir/softtechfinalproject/images/user_controller.png)
-![Image](src/main/java/com/anilakdemir/softtechfinalproject/images/product_controller.png)
-![Image](src/main/java/com/anilakdemir/softtechfinalproject/images/product_category_controller.png)
+![Image](images/top.png)
+![Image](images/authentication_controller.png)
+![Image](images/user_controller.png)
+![Image](images/product_controller.png)
+![Image](images/product_category_controller.png)
 
 ### Bitirme Projesi
 
